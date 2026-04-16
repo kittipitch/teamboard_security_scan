@@ -1,0 +1,12 @@
+{
+  "name": "teamboard-security-scan",
+  "version": "1.0.0",
+  "description": "TeamBoard with 9 planted security vulnerabilities for S4 Security Audit workshop",
+  "main": "server.js",
+  "scripts": {
+    "start": "bun server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
